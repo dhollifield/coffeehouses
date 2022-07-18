@@ -1,0 +1,16 @@
+.shop {
+    background-color: burlywood;
+    border: 4px dotted black;
+    margin: 20px;
+    padding: 0 20px;
+    width: 300px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.website {
+    text-align: center;
+}
